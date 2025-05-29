@@ -1,6 +1,6 @@
 # ENHANCING-UNDERWATER-RESOURCES-USING-DEEP-LEARNING
 Enhancing Underwater Resources Using Deep Learning
-A Final Year Major Project | B.Tech CSE – Data Science | JNTUH (2024–2025)
+A Final Year Major Project | B.Tech CSE – Data Science | JNTUH (2021–2025)
 
 This project presents a deep learning-based solution to improve the quality of underwater images, which are often degraded due to light absorption, scattering, and turbidity. We developed a novel Multi-Patch Residual Attention Network (MP-RAN) designed to enhance underwater images through advanced deep learning techniques. The model combines multi-patch processing, residual attention mechanisms, and multi-scale learning to effectively address common challenges such as low contrast, color distortion, and blurriness.
 
